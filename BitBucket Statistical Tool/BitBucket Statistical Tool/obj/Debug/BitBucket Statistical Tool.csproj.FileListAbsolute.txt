@@ -1,0 +1,27 @@
+C:\Users\jgangemi\Desktop\Bankers\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\BitBucket Statistical Tool.exe.config
+C:\Users\jgangemi\Desktop\Bankers\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\BitBucket Statistical Tool.exe
+C:\Users\jgangemi\Desktop\Bankers\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\BitBucket Statistical Tool.pdb
+C:\Users\jgangemi\Desktop\Bankers\BitBucket Statistical Tool\BitBucket Statistical Tool\obj\Debug\BitBucket_Statistical_Tool.MainForm.resources
+C:\Users\jgangemi\Desktop\Bankers\BitBucket Statistical Tool\BitBucket Statistical Tool\obj\Debug\BitBucket_Statistical_Tool.Properties.Resources.resources
+C:\Users\jgangemi\Desktop\Bankers\BitBucket Statistical Tool\BitBucket Statistical Tool\obj\Debug\BitBucket Statistical Tool.csproj.GenerateResource.Cache
+C:\Users\jgangemi\Desktop\Bankers\BitBucket Statistical Tool\BitBucket Statistical Tool\obj\Debug\BitBucket Statistical Tool.exe
+C:\Users\jgangemi\Desktop\Bankers\BitBucket Statistical Tool\BitBucket Statistical Tool\obj\Debug\BitBucket Statistical Tool.pdb
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\NativeBinaries\amd64\git2-e0902fb.dll
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\NativeBinaries\amd64\git2-e0902fb.pdb
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\NativeBinaries\x86\git2-e0902fb.dll
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\NativeBinaries\x86\git2-e0902fb.pdb
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\BitBucket Statistical Tool.exe.config
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\BitBucket Statistical Tool.exe
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\BitBucket Statistical Tool.pdb
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\LibGit2Sharp.dll
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\LibGit2Sharp.xml
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\obj\Debug\BitBucket_Statistical_Tool.MainForm.resources
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\obj\Debug\BitBucket_Statistical_Tool.Properties.Resources.resources
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\obj\Debug\BitBucket Statistical Tool.csproj.GenerateResource.Cache
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\obj\Debug\BitBucket Statistical Tool.exe
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\obj\Debug\BitBucket Statistical Tool.pdb
+C:\Users\John Gangemi\Desktop\Bankers Internship\BitBucket Statistical Tool\BitBucket Statistical Tool\obj\Debug\BitBucket Statistical Tool.csprojResolveAssemblyReference.cache
