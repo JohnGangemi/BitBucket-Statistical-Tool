@@ -1,12 +1,12 @@
 # BitBucket-Statistical-Tool
 
-*Program requires GitInspector, Python 2.7, and .NET Framework 4.5.*
+*Program requires at minimum GitInspector, Python 2.7, and .NET Framework 4.5.*
 
 
 GitInspector: 
 https://code.google.com/p/gitinspector/
 
-Python 2.7.10: 
+Python 2.7.10 (do not use release version 3 and greater): 
 https://www.python.org/downloads/
 
 .NET Framework 4.5: 
